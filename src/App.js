@@ -5,7 +5,7 @@ import Forecast from './components/Forecast'
 
 // import 'bootstrap/dist/css/bootstrap.min.css'; // This imports bootstrap css styles. You can use bootstrap or your own classes by using the className attribute in your elements.
 
-
+// https://open-meteo.com/en/docs?timezone=America%2FChicago&forecast_days=1&temperature_unit=fahrenheit
 
 
 
